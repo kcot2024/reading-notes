@@ -1,0 +1,5 @@
+#   Growth Mindset
+
+El Growth Mindset. o mentalidad de crecimiento, es una forma de pensar que se centra de que las habilidades y el conocimiento pueden desarollarse con fuerza, aprendizaje constante y resiliiencia. Este concepto, popularizado por la psicologa Carol Dweck, contrasta con el Fixed Mindset (mentalidad fija), donde laas personas creeen que sus capacidades son innatas e inmutables. 
+Las personas con mentalidad de crecimiento ven los desafíos como oportunidades, aprenden de los fracasos y buscan retroaliemntacion para mejorar. Esta prespectiva fomenta la perseverancia, la creatividad y el aprendizaje cntinuao, elementos claves para el exito en cualquier ambito, ya sea personal, académico o profesional. 
+Adoptar esta mentalidad implica practicar la autocompasión, enfocarse en el proceso más que en los resultados y mantener una actitud abierta hacia el aprendizaje, incluso en situaciones difíceles.¿El mensaje clave? Todos podemos crecer si estamos dispuestos a esforzarnos y aprender.
