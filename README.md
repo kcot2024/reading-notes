@@ -34,3 +34,7 @@ Soy un joven con experiancia en el rubro de logística internacional. Me encanta
 14. [Read14](./202/read14.md)
 15. [Read15](./202/read15.md)
 16. [Read16](./202/read16.md)
+
+
+#### Mis Observaciones
+* [Observaciones](./observaciones.md)
