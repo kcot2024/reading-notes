@@ -1,17 +1,22 @@
+# ¿Cómo funciona la web?
 
-## Preparación: El impacto de la inteligencia artificial en el desarrollo web
+La web, o World Wide Web, es un sistema de información que permite a los usuarios acceder y compartir contenido a través de internet. Este sistema se basa en una arquitectura cliente-servidor y utiliza diversos protocolos para intercambiar datos.
 
-¿Qué ejemplos específicos se mencionan en el artículo sobre cómo la inteligencia artificial está mejorando la experiencia del usuario en los sitios web?
+## Partes esenciales de la web
 
+### 1. **Cliente**
+Un cliente es cualquier dispositivo (como una computadora, teléfono o tableta) que solicita información a un servidor web. Los navegadores web (como Chrome, Firefox o Safari) actúan como intermediarios, traduciendo las solicitudes de los usuarios y mostrando las respuestas.
 
-*Menciona al chatbot, analizar el comportamiento de las personas y dar recomendaciones personalizadas, también pueden generar códigos html y css. 
+### 2. **Servidor**
+El servidor almacena y gestiona los recursos web, como páginas HTML, imágenes o videos. Cuando recibe una solicitud del cliente, envía los datos correspondientes al navegador para que el usuario pueda interactuar con ellos.
 
-¿Cómo la inteligencia artificial está transformando el proceso tradicional de desarrollo web, y qué herramientas se destacan para facilitar esta transformación?
+### 3. **Protocolo HTTP/HTTPS**
+El **Protocolo de Transferencia de Hipertexto** (HTTP) regula cómo se intercambia la información entre cliente y servidor. La versión segura, HTTPS, cifra los datos para proteger la privacidad del usuario.
 
+### 4. **DNS (Sistema de Nombres de Dominio)**
+El DNS traduce nombres de dominio fáciles de recordar (como `www.ejemplo.com`) a direcciones IP, que son los identificadores reales de los servidores en la red.
 
-*Por herramientas que facilitan y automatizar el desarrollo, una de las herramientas mas destacable es chatgpt.
+### 5. **Contenido**
+El contenido es el núcleo de la web: texto, imágenes, videos, aplicaciones y más. Este se estructura utilizando lenguajes como HTML, CSS y JavaScript.
 
-¿Cuáles son los desafíos que enfrentan los desarrolladores al integrar inteligencia artificial en sus proyectos, según el artículo?
-
-
- *Adaptarse a los nuevos desarrollo tecnológicos para ser capaces de utilizar las herramientas en sus trabajos.
+En conjunto, estas partes permiten que los usuarios naveguen, consuman y contribuyan al vasto ecosistema de la web.
